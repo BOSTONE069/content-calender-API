@@ -2,7 +2,7 @@ package com.bostone.contentcalender.model;
 
 import java.time.LocalDateTime;
 
-public class Content (
+public class Content(
         Integer id,
         String title,
         String desc,
